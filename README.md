@@ -1,1 +1,5 @@
-### <현> Infra Engineer
+### <현> IT Engineer
+- Firewall
+- WAF
+- EMS / TMS / SIEM
+- Network
